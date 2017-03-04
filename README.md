@@ -23,6 +23,7 @@ Videos
 [Node.js First Look](http://www.lynda.com/Nodejs-tutorials/Nodejs-First-Look/101554-2.html)  
 [Node.js with MongoDB](http://www.youtube.com/watch?v=0_GNHWZHc-o)  
 [Ryan Dahl's Google Tech Talk](http://www.youtube.com/watch?v=F6k8lTrAE2g)  
+[Creating A Scalable JavaScript Application Architecture Nicholas Zakas](https://www.youtube.com/watch?v=b5pFv9NB9fs)  
 
 Screencasts
 ---
