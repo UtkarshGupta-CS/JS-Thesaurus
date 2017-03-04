@@ -79,6 +79,6 @@ Other
 ---
 [JSApp.US - like jsfiddle, but for node.js](http://jsapp.us/)  
 [Node with VJET JS (for Eclipse IDE)](https://www.ebayopensource.org/index.php/VJET/NodeJS)  
-[Node Knockout Hackathon (source)](http://nodeknockout.com/)[(source)](https://github.com/nko3/website)  
+[Node Knockout Hackathon](http://nodeknockout.com/)[(source)](https://github.com/nko3/website)  
 [Useful Node.js Tools, Tutorials and Resources](http://coding.smashingmagazine.com/2011/09/16/useful-node-js-tools-tutorials-and-resources/)  
 [Runnable.com - like jsfiddle, but for server side as well](http://runnable.com/)  
