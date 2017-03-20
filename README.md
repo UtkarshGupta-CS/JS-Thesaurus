@@ -44,6 +44,7 @@ Books
 [Mixu's Node Book](http://book.mixu.net/node/index.html)  
 [Node.js the Right Way: Practical, Server-Side JavaScript That Scale](http://pragprog.com/book/jwnode/node-js-the-right-way)  
 [Beginning Web Development with Node.js](https://leanpub.com/webdevelopmentwithnodejs)  
+[JavaScript books by Dr. Axel Rauschmayer](http://exploringjs.com)  
 
 Courses
 ---
