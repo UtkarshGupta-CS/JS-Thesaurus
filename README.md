@@ -24,6 +24,7 @@ Videos
 [Node.js with MongoDB](http://www.youtube.com/watch?v=0_GNHWZHc-o)  
 [Ryan Dahl's Google Tech Talk](http://www.youtube.com/watch?v=F6k8lTrAE2g)  
 [Creating A Scalable JavaScript Application Architecture Nicholas Zakas](https://www.youtube.com/watch?v=b5pFv9NB9fs)  
+[Best of Fluent 2012: Maintainable JavaScript by Nicholas Zakas](https://www.youtube.com/watch?v=c-kav7Tf834) 
 
 Screencasts
 ---
